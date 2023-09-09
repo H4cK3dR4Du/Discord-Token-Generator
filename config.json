@@ -1,0 +1,14 @@
+{
+    "captcha_keys": {
+        "capsolver": "",
+        "capmonster": ""
+    },
+
+    "custom_settings": {
+        "mail_domain": "",
+        "password": "",
+        "username": "",
+        "invite_code": "",
+        "threads": 100
+    }
+}
